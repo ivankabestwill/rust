@@ -1,4 +1,4 @@
-
+// 函数参数同时可变和不可变的引用结构体及其成员
 use std::mem::transmute;
 
 #[derive(Debug)]
